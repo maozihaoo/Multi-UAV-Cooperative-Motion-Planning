@@ -13,7 +13,7 @@ For researchers that have leveraged or compared to this work, please cite the fo
 
 ```
 @ARTICLE{10582491,
-    author={Mao, Zihao and Hou, Mingyu and Li, Herui and Yang, Yi and Song, Wenjie},
+    author={Zihao Mao and Mingyu Hou and Herui Li and Yi Yang and Wenjie Song},
     journal={IEEE Transactions on Intelligent Vehicles}, 
     title={Multi-UAV Cooperative Motion Planning Under Global Spatio-Temporal Path Inspiration in Constraint-Rich Dynamic Environments}, 
     year={2024},
